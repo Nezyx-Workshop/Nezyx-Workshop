@@ -2,9 +2,9 @@
   <img src="assets/PFP.jpg" alt="Neon owl" width="180" style="border-radius:50%">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/nezyx.svg" alt="Nezyx banner" width="720">
-</p>
+</p> -->
 <p align="center"><em>OSINT • Discord bots • Flipper / HackRF • Physical Security • experimentation</em></p>
 
 <p align="center">
