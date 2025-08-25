@@ -83,7 +83,7 @@ Cyber Cyan #00E5FF • Electric Blue #4FD3FF • Magenta #E100FF • Violet #8B5
 
 ---
 
-<!-- Optional: contribution snake (enable workflow below) -->
+<!-- Optional: contribution snake (enable workflow below) 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nezyx-Workshop/Nezyx-Workshop/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
+</p> -->
