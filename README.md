@@ -5,7 +5,7 @@
 <!-- <p align="center">
   <img src="assets/nezyx.svg" alt="Nezyx banner" width="720">
 </p> -->
-<p align="center"><em>OSINT • Discord bots • Flipper / HackRF • Physical Security • experimentation</em></p>
+<p align="center"><em>OSINT • Flipper / HackRF • Physical Security • experimentation</em></p>
 
 <p align="center">
   <!-- Discord placeholder: replace INVITE_CODE when ready -->
