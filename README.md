@@ -113,6 +113,37 @@ Cyber Cyan #00E5FF • Electric Blue #4FD3FF • Magenta #E100FF • Violet #8B5
 
 ---
 
+### 🎓 Certifications
+
+<p align="center">
+  <!-- CompTIA -->
+  <img src="https://img.shields.io/badge/CompTIA-A%2B-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-Network%2B-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-Pentest%2B-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-Project%2B-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-ITOS-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-CIOS-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-CNSP-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-CNVP-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-CSIS-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-CSAP-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- ISC2 -->
+  <img src="https://img.shields.io/badge/ISC2-CC-8B5CF6?style=for-the-badge&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/ISC2-SSCP-8B5CF6?style=for-the-badge&labelColor=0B1020" />
+</p>
+
+<p align="center">
+  <!-- ITIL -->
+  <img src="https://img.shields.io/badge/ITIL4-Foundation-00E5FF?style=for-the-badge&labelColor=0B1020" />
+</p>
+
+---
+
 ### 📊 Stats
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Nezyx-Workshop&show_icons=true&hide_border=true&title_color=E100FF&text_color=4FD3FF&icon_color=8B5CF6&bg_color=0B1020" />
