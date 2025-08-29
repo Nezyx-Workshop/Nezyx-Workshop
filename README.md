@@ -73,7 +73,6 @@
 <p align="center">
   <!-- Row 5 (3) -->
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="Azure SQL Database" />
-  <img src="https://img.shields.io/badge/SQL-generic-4FD3FF?style=flat" alt="SQL (generic)" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title=" " style="opacity:0; width:0; height:0;" />
 </p>
 <p align="center">
