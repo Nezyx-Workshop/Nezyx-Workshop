@@ -1,0 +1,27 @@
+```yaml
+name: Update Timestamp
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs every day at 00:00 UTC
+  workflow_dispatch:       # allows manual run
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update timestamp in README
+        run: |
+          ts=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+          sed -i "s|> last_build: .* <!--TIMESTAMP-->|> last_build: ${ts}   <!--TIMESTAMP-->|" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update timestamp to ${ts}" || echo "No changes to commit"
+          git push
