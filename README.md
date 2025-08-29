@@ -128,3 +128,15 @@ Cyber Cyan #00E5FF • Electric Blue #4FD3FF • Magenta #E100FF • Violet #8B5
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nezyx-Workshop/Nezyx-Workshop/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p> -->
+
+---
+
+### ⌨️ Terminal
+
+```bash
+nezyx@workbench:~$ ./status.sh
+> mode: stealth
+> ops: osint_bots, sdr, physical_security
+> last_build: 2025-08-29T00:00:00Z   <!--TIMESTAMP-->
+> all_systems: OK
+nezyx@workbench:~$ _
