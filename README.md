@@ -20,7 +20,7 @@
 ### 🧭 About
 - 🕵️ Building **OSINT** tools and automation that live nicely inside **Discord**.  
 - 📡 Playing with **SDR**, HackRF refs, and odd radio signals.  
-- 💥 Physical Security Enthusiast.
+- 🔒 Physical Security Enthusiast.
 
 ---
 
