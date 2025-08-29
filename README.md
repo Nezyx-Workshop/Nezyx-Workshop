@@ -26,10 +26,9 @@
 
 ### 🧱 Stack
 
-<!-- Diamond layout: 5 / 7 / 9 / 7 / 5 -->
 <p align="center">
   <!-- Row 1 (5) -->
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" />
@@ -41,7 +40,7 @@
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" title="Apache" />
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" title="Tomcat" />
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" />
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
+  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" />
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" />
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" title="Markdown" />
@@ -65,20 +64,21 @@
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" title="discord.js" />
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" />
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original.svg" title="Proxmox" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" title="PuTTY" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" title="SSH" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" title="OAuth" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub (Codespaces via badge below)" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" title="PuTTY" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" title="SSH" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" title="OAuth 2.0" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" title="GitHub Codespaces" />
 </p>
 
 <p align="center">
-  <!-- Row 5 (5) -->
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQL (generic via SQLite)" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" />
+  <!-- Row 5 (3) -->
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="Azure SQL Database" />
+  <img src="https://img.shields.io/badge/SQL-generic-4FD3FF?style=flat" alt="SQL (generic)" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title=" " style="opacity:0; width:0; height:0;" />
 </p>
+<p align="center">
+</p>
+
 
 <!-- Palette reference for badges/assets:
 Cyber Cyan #00E5FF • Electric Blue #4FD3FF • Magenta #E100FF • Violet #8B5CF6 • Teal #00B8D4 • Graphite #0B1020
