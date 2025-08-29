@@ -117,29 +117,29 @@ Cyber Cyan #00E5FF • Electric Blue #4FD3FF • Magenta #E100FF • Violet #8B5
 
 <p align="center">
   <!-- CompTIA -->
-  <img src="https://img.shields.io/badge/CompTIA-A%2B-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-Network%2B-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-Pentest%2B-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-Project%2B-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-ITOS-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-CIOS-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-CNSP-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-CNVP-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-CSIS-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CompTIA-CSAP-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-A%2B-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" title="CompTIA A+"/>
+  <img src="https://img.shields.io/badge/CompTIA-Network%2B-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" title="CompTIA Network+"/>
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" title="CompTIA Security+"/>
+  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" title="CompTIA Cybersecurity Analyst (CySA+)"/>
+  <img src="https://img.shields.io/badge/CompTIA-Pentest%2B-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" title="CompTIA PenTest+"/>
+  <img src="https://img.shields.io/badge/CompTIA-Project%2B-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" title="CompTIA Project+"/>
+  <img src="https://img.shields.io/badge/CompTIA-ITOS-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" title="CompTIA IT Operations Specialist (Stackable)"/>
+  <img src="https://img.shields.io/badge/CompTIA-CIOS-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" title="CompTIA Cloud Infrastructure Operations Specialist (Stackable)"/>
+  <img src="https://img.shields.io/badge/CompTIA-CNSP-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" title="CompTIA Network Security Professional (Stackable)"/>
+  <img src="https://img.shields.io/badge/CompTIA-CNVP-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" title="CompTIA Network Vulnerability Professional (Stackable)"/>
+  <img src="https://img.shields.io/badge/CompTIA-CSIS-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" title="CompTIA Security Infrastructure Specialist (Stackable)"/>
+  <img src="https://img.shields.io/badge/CompTIA-CSAP-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" title="CompTIA Security Analytics Professional (Stackable)"/>
 </p>
 
 <p align="center">
   <!-- ISC2 -->
-  <img src="https://img.shields.io/badge/ISC2-CC-8B5CF6?style=for-the-badge&labelColor=0B1020" />
-  <img src="https://img.shields.io/badge/ISC2-SSCP-8B5CF6?style=for-the-badge&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/ISC2-CC-8B5CF6?style=for-the-badge&labelColor=0B1020" title="ISC2 Certified in Cybersecurity (CC)"/>
+  <img src="https://img.shields.io/badge/ISC2-SSCP-8B5CF6?style=for-the-badge&labelColor=0B1020" title="ISC2 Systems Security Certified Practitioner (SSCP)"/>
 </p>
 
 <p align="center">
   <!-- ITIL -->
-  <img src="https://img.shields.io/badge/ITIL4-Foundation-00E5FF?style=for-the-badge&labelColor=0B1020" />
+  <img src="https://img.shields.io/badge/ITIL4-Foundation-00E5FF?style=for-the-badge&labelColor=0B1020" title="ITIL 4 Foundation in IT Service Management"/>
 </p>
 
 ---
@@ -152,13 +152,6 @@ Cyber Cyan #00E5FF • Electric Blue #4FD3FF • Magenta #E100FF • Violet #8B5
 <p>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nezyx-Workshop&layout=compact&hide_border=true&title_color=E100FF&text_color=4FD3FF&bg_color=0B1020" />
 </p>
-
----
-
-<!-- Optional: contribution snake (enable workflow below) 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nezyx-Workshop/Nezyx-Workshop/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p> -->
 
 ---
 
