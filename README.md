@@ -19,7 +19,7 @@
 
 ### 🧭 About
 - 🕵️ Building **OSINT** tools and automation that live nicely inside **Discord**.  
-- 📡 Playing with **SDR**, HackRF refs, and odd radio signals.  
+- 📡 Playing with **Flipper Zero**, HackRF stuff, and odd radio signals.  
 - 🔒 Physical Security Enthusiast.
 
 ---
@@ -89,27 +89,23 @@ Cyber Cyan #00E5FF • Electric Blue #4FD3FF • Magenta #E100FF • Violet #8B5
   `Python` • `discord.py` • `OSINT`  
   Repo: https://github.com/Nezyx-Workshop/OSINT_I_Bot
 
-- **OSINTHub** — browser hub combining multiple OSINT tools in one place.  
-  `JavaScript` • `Dashboards`  
-  Repo: https://github.com/Nezyx-Workshop/OSINTHub
-
 - **ops-discord-bot** — operational helper bot experiments.  
   `Python` • `discord.py`  
   Repo: https://github.com/Nezyx-Workshop/ops-discord-bot
 
-- **hackrf-freq-reference** — quick‑load text refs for HackRF file manager.  
-  `SDR` • `field notes`  
-  Repo: https://github.com/Nezyx-Workshop/hackrf-freq-reference
+- **StoryPod_NFC** — StoryPod cards, stuffed animals, books.  
+  `NFC` • `Flipper Zero`  
+  Repo: https://github.com/Nezyx-Workshop/StoryPod_NFC
 
 
-> more tinkering/forks: DorkBot, Flipper_Zero, Signal-Server, Vehicle‑OSINT… see Repos/Stars.
+> more tinkering/forks: … see Repos/Stars.
 
 ---
 
 ### 🗓️ Now
-- 🔧 polishing OSINT + Discord automation
-- 📡 expanding Flipper Zero/HackRF tools
-- 🎛️ experimenting with all things RF
+- 🤫 Finding your *secrets*
+- 🤖 trying to make Flipper Apps & Discord Bots
+- 📡 Picking locks & Capturing Signals
 
 ---
 
