@@ -1,162 +1,213 @@
 <p align="center">
-  <img src="assets/PFP.jpg" alt="Neon owl" width="180" style="border-radius:50%">
+  <img src="assets/nezyx.svg" alt="Nezyx Workshop" width="100%">
 </p>
 
-<!-- <p align="center">
-  <img src="assets/nezyx.svg" alt="Nezyx banner" width="720">
-</p> -->
-<p align="center"><em>OSINT • Flipper / HackRF • Physical Security • experimentation</em></p>
+<p align="center">
+  <strong>RF • WIRELESS • DRONES / UAS • SECURITY • HARDWARE • CODE</strong>
+</p>
 
 <p align="center">
-  <!-- Discord placeholder: replace INVITE_CODE when ready -->
-  <a href="https://discord.gg/INVITE_CODE">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&labelColor=0B1020&logo=discord&logoColor=white">
+  A workshop for things that fly, transmit, authenticate, automate,<br>
+  or probably shouldn't have been taken apart in the first place.
+</p>
+
+<p align="center">
+  <a href="https://stevecoffey.me">
+    <img alt="Website" src="https://img.shields.io/badge/stevecoffey.me-00E5FF?style=for-the-badge&labelColor=0B1020">
   </a>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Nezyx-Workshop&style=for-the-badge&color=E100FF&label=VISITORS">
 </p>
 
 ---
 
-### 🧭 About
-- 🕵️ Building **OSINT** tools and automation that live nicely inside **Discord**.  
-- 📡 Playing with **Flipper Zero**, HackRF stuff, and odd radio signals.  
-- 🔒 Physical Security Enthusiast.
+## 🔧 The Workshop
+
+I'm **Nezyx**.
+
+This is where I keep the projects, experiments, references, half-finished ideas, and occasionally questionable decisions that come from pulling on technical threads just to see where they go.
+
+My interests tend to live somewhere between **cybersecurity, radio, aviation, embedded hardware, physical security, and automation**.
+
+A lot of what ends up here starts with:
+
+> *“I wonder if I can make these two things talk to each other…”*
+
+and deteriorates from there.
 
 ---
 
-### 🧱 Stack
+## 📡 Currently on the Bench
 
-<p align="center">
-  <!-- Row 1 (5) -->
-  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" />
-</p>
-
-<p align="center">
-  <!-- Row 2 (7) -->
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" title="Apache" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" title="Tomcat" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" />
-  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" title="Markdown" />
-</p>
-
-<p align="center">
-  <!-- Row 3 (9) -->
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" />
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" />
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" />
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" />
-  <img height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" />
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" title="PowerShell" />
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" title="CMake" />
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" title="Debian" />
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ" />
-</p>
-
-<p align="center">
-  <!-- Row 4 (7) -->
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" title="discord.js" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original.svg" title="Proxmox" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" title="PuTTY" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" title="SSH" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" title="OAuth 2.0" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" title="GitHub Codespaces" />
-</p>
-
-<p align="center">
-  <!-- Row 5 (3) -->
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="Azure SQL Database" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title=" " style="opacity:0; width:0; height:0;" />
-</p>
-<p align="center">
-</p>
-
-
-<!-- Palette reference for badges/assets:
-Cyber Cyan #00E5FF • Electric Blue #4FD3FF • Magenta #E100FF • Violet #8B5CF6 • Teal #00B8D4 • Graphite #0B1020
--->
+`RF / SDR`
+`Wardriving`
+`Wi-Fi`
+`HackRF`
+`Flipper Zero`
+`NFC / RFID`
+`Meshtastic`
+`ESP32`
+`Raspberry Pi`
+`Drones / UAS`
+`Remote ID`
+`OSINT`
+`Physical Security`
+`Automation`
 
 ---
 
-### 🚀 Projects
-- **OSINT_I_Bot** — Discord bot that taps OSINT.industries search.  
-  `Python` • `discord.py` • `OSINT`  
-  Repo: https://github.com/Nezyx-Workshop/OSINT_I_Bot
+## 🧪 Areas of Interest
 
-- **ops-discord-bot** — operational helper bot experiments.  
-  `Python` • `discord.py`  
-  Repo: https://github.com/Nezyx-Workshop/ops-discord-bot
+### 📡 RF & Wireless
 
-- **StoryPod_NFC** — StoryPod cards, stuffed animals, books.  
-  `NFC` • `Flipper Zero`  
-  Repo: https://github.com/Nezyx-Workshop/StoryPod_NFC
+SDR, HackRF, spectrum exploration, wireless protocols, wardriving, Wi-Fi, Bluetooth, Meshtastic, antennas, and generally figuring out what is transmitting around me.
 
+### 🚁 Drones & UAS
 
-> more tinkering/forks: … see Repos/Stars.
+UAS hardware, Remote ID, telemetry, RF behavior, embedded integrations, mapping, aviation technology, and experimental drone tooling.
+
+### 🔐 Security
+
+Cybersecurity, OSINT, physical security, access control, NFC/RFID, digital forensics, vulnerability research, and security automation.
+
+### 🛠️ Hardware & Embedded
+
+Flipper Zero, ESP32, Raspberry Pi, microcontrollers, sensors, radios, odd peripherals, and making hardware do things its manufacturer probably didn't document.
+
+### 🤖 Automation & Software
+
+Python, APIs, Discord integrations, data gathering, bots, utilities, and glue code for connecting systems that weren't designed to work together.
 
 ---
 
-### 🗓️ Now
-- 🤫 Finding your *secrets*
-- 🤖 trying to make Flipper Apps & Discord Bots
-- 📡 Picking locks & Capturing Signals
+## 🚀 Featured Work
+
+### 📻 HackRF Frequency Reference
+
+A practical frequency reference for exploring the RF spectrum with HackRF and other SDR hardware.
+
+**Focus:** `RF` `SDR` `HackRF` `Spectrum`
+
+[View Repository →](https://github.com/Nezyx-Workshop/hackrf-freq-reference)
 
 ---
 
-### 🎓 Certifications
+### 🕵️ OSINT I Bot
+
+Discord-based OSINT tooling integrating OSINT Industries searches into an operational workflow.
+
+**Focus:** `OSINT` `Python` `Discord` `Automation`
+
+[View Repository →](https://github.com/Nezyx-Workshop/OSINT_I_Bot)
+
+---
+
+### 🚙 Vehicle OSINT Collection
+
+A curated collection of resources and techniques focused on vehicle-related open-source intelligence.
+
+**Focus:** `OSINT` `Vehicles` `Research`
+
+[View Repository →](https://github.com/Nezyx-Workshop/Vehicle-OSINT-Collection)
+
+---
+
+### 📱 StoryPod NFC
+
+Research and experimentation involving StoryPod NFC tags, cards, books, and character tokens.
+
+**Focus:** `NFC` `RFID` `Flipper Zero`
+
+[View Repository →](https://github.com/Nezyx-Workshop/StoryPod_NFC)
+
+---
+
+### 🐬 Flipper Zero Workshop
+
+A collection of Flipper Zero resources, experiments, files, and research.
+
+**Focus:** `Flipper Zero` `RF` `NFC` `Sub-GHz`
+
+[View Repository →](https://github.com/Nezyx-Workshop/Flipper_Zero)
+
+---
+
+### ☠️ DEF CON Groups
+
+Resources and material related to DEF CON community groups and projects.
+
+**Focus:** `DEF CON` `Community` `Security`
+
+[View Repository →](https://github.com/Nezyx-Workshop/DefconGroups)
+
+---
+
+## 🧰 Tools I Reach For
 
 <p align="center">
-  <!-- CompTIA -->
-  <img src="https://img.shields.io/badge/CompTIA-A%2B-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" title="CompTIA A+"/>
-  <img src="https://img.shields.io/badge/CompTIA-Network%2B-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" title="CompTIA Network+"/>
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" title="CompTIA Security+"/>
-  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" title="CompTIA Cybersecurity Analyst (CySA+)"/>
-  <img src="https://img.shields.io/badge/CompTIA-Pentest%2B-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" title="CompTIA PenTest+"/>
-  <img src="https://img.shields.io/badge/CompTIA-Project%2B-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" title="CompTIA Project+"/>
-  <img src="https://img.shields.io/badge/CompTIA-ITOS-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" title="CompTIA IT Operations Specialist (Stackable)"/>
-  <img src="https://img.shields.io/badge/CompTIA-CIOS-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" title="CompTIA Cloud Infrastructure Operations Specialist (Stackable)"/>
-  <img src="https://img.shields.io/badge/CompTIA-CNSP-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" title="CompTIA Network Security Professional (Stackable)"/>
-  <img src="https://img.shields.io/badge/CompTIA-CNVP-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" title="CompTIA Network Vulnerability Professional (Stackable)"/>
-  <img src="https://img.shields.io/badge/CompTIA-CSIS-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" title="CompTIA Security Infrastructure Specialist (Stackable)"/>
-  <img src="https://img.shields.io/badge/CompTIA-CSAP-E100FF?style=for-the-badge&labelColor=0B1020&logo=comptia&logoColor=white" title="CompTIA Security Analytics Professional (Stackable)"/>
+  <img src="https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=4FD3FF">
+  <img src="https://img.shields.io/badge/Linux-0B1020?style=for-the-badge&logo=linux&logoColor=4FD3FF">
+  <img src="https://img.shields.io/badge/Raspberry_Pi-0B1020?style=for-the-badge&logo=raspberrypi&logoColor=E100FF">
+  <img src="https://img.shields.io/badge/Arduino-0B1020?style=for-the-badge&logo=arduino&logoColor=00E5FF">
+  <img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 <p align="center">
-  <!-- ISC2 -->
-  <img src="https://img.shields.io/badge/ISC2-CC-8B5CF6?style=for-the-badge&labelColor=0B1020" title="ISC2 Certified in Cybersecurity (CC)"/>
-  <img src="https://img.shields.io/badge/ISC2-SSCP-8B5CF6?style=for-the-badge&labelColor=0B1020" title="ISC2 Systems Security Certified Practitioner (SSCP)"/>
-</p>
-
-<p align="center">
-  <!-- ITIL -->
-  <img src="https://img.shields.io/badge/ITIL4-Foundation-00E5FF?style=for-the-badge&labelColor=0B1020" title="ITIL 4 Foundation in IT Service Management"/>
+  <code>HackRF</code> •
+  <code>Flipper Zero</code> •
+  <code>ESP32</code> •
+  <code>Proxmark</code> •
+  <code>SDR</code> •
+  <code>Wi-Fi</code> •
+  <code>NFC/RFID</code> •
+  <code>Meshtastic</code>
 </p>
 
 ---
 
-### 📊 Stats
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Nezyx-Workshop&show_icons=true&hide_border=true&title_color=E100FF&text_color=4FD3FF&icon_color=8B5CF6&bg_color=0B1020" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Nezyx-Workshop&hide_border=true&ring=E100FF&fire=E100FF&currStreakNum=4FD3FF&sideNums=4FD3FF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=4FD3FF&background=0B1020" />
+## 🎓 Credentials
+
+Cybersecurity is also what I do professionally, so there are a few letters floating around.
+
+**ISC2**
+`SSCP` • `CC`
+
+**CompTIA**
+`Security+` • `CySA+` • `PenTest+` • `Network+` • `A+` • `Project+`
+
+**Other**
+`ITIL 4 Foundation` • `AWS Cloud Practitioner` • `FAA Part 107` • `Cellebrite`
+
+The full professional side lives at **[stevecoffey.me](https://stevecoffey.me)**.
+
+---
+
+## 📊 Workshop Telemetry
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nezyx-Workshop&show_icons=true&hide_border=true&title_color=E100FF&text_color=4FD3FF&icon_color=8B5CF6&bg_color=0B1020" />
 </p>
-<p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nezyx-Workshop&layout=compact&hide_border=true&title_color=E100FF&text_color=4FD3FF&bg_color=0B1020" />
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nezyx-Workshop&layout=compact&hide_border=true&title_color=E100FF&text_color=4FD3FF&bg_color=0B1020" />
 </p>
 
 ---
 
-### ⌨️ Terminal
+## ⌨️ Terminal
 
-```bash
-nezyx@workbench:~$ ./status.sh
-> mode: stealth
-> ops: osint_bots, sdr, physical_security
-> last_build: 2025-08-29T00:00:00Z   <!--TIMESTAMP-->
-> all_systems: OK
-nezyx@workbench:~$ _
+```text
+nezyx@workshop:~$ ./status
+
+[+] RF ................. listening
+[+] drones ............. probably airborne
+[+] hardware ........... disassembled
+[+] security ........... questioning trust
+[+] projects ........... more than finished
+[+] curiosity .......... operational
+
+nezyx@workshop:~$ _
+```
+
+<p align="center">
+  <sub>Build things. Break assumptions. Document what happens.</sub>
+</p>
