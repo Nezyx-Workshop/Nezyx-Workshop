@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ChatGPT Image Sep 12, 2026, 11_14_54 PM.png" alt="Nezyx Workshop" width="100%">
+  <img src="assets/nezyx.svg" alt="Nezyx Workshop" width="100%">
 </p>
 
 <p align="center">
@@ -55,6 +55,14 @@ and deteriorates from there.
 
 ---
 
+## 📡 RF / Wardriving
+
+Wireless exploration, spectrum hunting, mapping, and experimentation.
+
+[![WDGWars](https://wdgwars.pl/card/3667-GAQVX2AJ.svg)](https://wdgwars.pl/)
+
+---
+
 ## 🧪 Areas of Interest
 
 ### 📡 RF & Wireless
@@ -91,16 +99,6 @@ A practical frequency reference for exploring the RF spectrum with HackRF and ot
 
 ---
 
-### 🕵️ OSINT I Bot
-
-Discord-based OSINT tooling integrating OSINT Industries searches into an operational workflow.
-
-**Focus:** `OSINT` `Python` `Discord` `Automation`
-
-[View Repository →](https://github.com/Nezyx-Workshop/OSINT_I_Bot)
-
----
-
 ### 🚙 Vehicle OSINT Collection
 
 A curated collection of resources and techniques focused on vehicle-related open-source intelligence.
@@ -111,6 +109,16 @@ A curated collection of resources and techniques focused on vehicle-related open
 
 ---
 
+### 🕵️ OSINT I Bot
+
+Discord-based OSINT tooling integrating OSINT Industries searches into an operational workflow.
+
+**Focus:** `OSINT` `Python` `Discord` `Automation`
+
+[View Repository →](https://github.com/Nezyx-Workshop/OSINT_I_Bot)
+
+---
+
 ### 📱 StoryPod NFC
 
 Research and experimentation involving StoryPod NFC tags, cards, books, and character tokens.
@@ -118,26 +126,6 @@ Research and experimentation involving StoryPod NFC tags, cards, books, and char
 **Focus:** `NFC` `RFID` `Flipper Zero`
 
 [View Repository →](https://github.com/Nezyx-Workshop/StoryPod_NFC)
-
----
-
-### 🐬 Flipper Zero Workshop
-
-A collection of Flipper Zero resources, experiments, files, and research.
-
-**Focus:** `Flipper Zero` `RF` `NFC` `Sub-GHz`
-
-[View Repository →](https://github.com/Nezyx-Workshop/Flipper_Zero)
-
----
-
-### ☠️ DEF CON Groups
-
-Resources and material related to DEF CON community groups and projects.
-
-**Focus:** `DEF CON` `Community` `Security`
-
-[View Repository →](https://github.com/Nezyx-Workshop/DefconGroups)
 
 ---
 
