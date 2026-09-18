@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/nezyx.svg" alt="Nezyx Workshop" width="100%">
+  <img src="assets/ChatGPT Image Sep 12, 2026, 11_14_54 PM.png" alt="Nezyx Workshop" width="100%">
 </p>
 
 <p align="center">
